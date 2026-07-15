@@ -1,4 +1,4 @@
-# GitScrapeX
+# GitScrapeX - https://gitscrapex.online/
 ## The Ultimate Seed Phrase Finder
 
 Automate your search across millions of GitHub repositories. Extract, validate, and check balances for BTC, ETH, SOL, TRX, and more—all in real-time.
@@ -32,4 +32,6 @@ Automate your search across millions of GitHub repositories. Extract, validate, 
 *GitScrapeX is intended for authorized security auditing and research purposes only. The user assumes full responsibility for complying with all applicable laws and terms of service regarding data access and repository interaction.*
 
 ---
-*Built for the future of blockchain security.*
+*Get the free version here - https://gitscrapex.online/*
+*Get the free version here - https://gitscrapex.online/*
+*Get the free version here - https://gitscrapex.online/*
